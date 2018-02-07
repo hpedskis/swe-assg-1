@@ -3,6 +3,6 @@ The article I chose for this assignment is an article detailing the emerging tre
 
 ## Comments:
 
-### Ryan:
+### Ryan Chau:
 
 > The fact that only one third of developers were graded on the quality of their software eingeering is ridiculus. In that case, it's not hard to see why pride in worksmanship would go down in the long run, because they won't get hit for being lazy. It's funny to think that app failures and security breaches don't directly impact software developers, it almost reinforces a sense of detachment. It is just as strange to think that penalizing developers won't hurt inexperienced developers' sense of pride in their workmanship, which the survey cites as leading to high-quality software.
